@@ -115,7 +115,7 @@ A Lambda function for updating the cloudfront EC2 security group ingress rules w
 33. 在右上角點選 **Save**
 
 34. 在 Save test events 的下拉式選單中選擇 Configure test event
-    * 輸入名字：``
+    * 輸入名字：`testautoupdate`
     * 在下方的格子輸入並且 **Save**：
 ```
 {
