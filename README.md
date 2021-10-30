@@ -4,6 +4,9 @@
 ### Update Security Groups
 A Lambda function for updating the cloudfront EC2 security group ingress rules with the CloudFront IP range changes.
 
+### Note
+This code is not written by me, it is from AWS.
+
 ## Set up
 ### 建立 4 個Security Group
 
